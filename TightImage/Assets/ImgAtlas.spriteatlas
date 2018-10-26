@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ImgAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d6ca0dafbd9c7497c8dc8ec4c9301607, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 82ef0b10da8854e2d8fff4b58ce62288, type: 3}
+  - {fileID: 21300000, guid: c437e6806187a466786a50cfc7a284b3, type: 3}
+  - {fileID: 21300000, guid: 790926a1e8b65442196e8e64be6b79a9, type: 3}
+  - {fileID: 21300000, guid: 87e5e9c1ccf5f4596935227a9e8acc3d, type: 3}
+  - {fileID: 21300000, guid: 80be76d13e43a46df9a3f0d0a3fd8f3d, type: 3}
+  - {fileID: 21300000, guid: d806aa5341c6a478c981a735ea46f0c6, type: 3}
+  - {fileID: 21300000, guid: 33553b04a02ad4650bf9229525e32eed, type: 3}
+  - {fileID: 21300000, guid: 4d5ff9d4c9bcd4aa9834c3fb86d1f8ae, type: 3}
+  - {fileID: 21300000, guid: 47b98805708744bdaa5b0beead2afffd, type: 3}
+  - {fileID: 21300000, guid: e13da935b91f74894a556e6b2c22e8fd, type: 3}
+  - {fileID: 21300000, guid: e1ea40f6b494e444ea7e1cfad9064667, type: 3}
+  - {fileID: 21300000, guid: 7c2396088736340e4bb7611ccb3cbf95, type: 3}
+  - {fileID: 21300000, guid: b6d6fe29b25b64b15951ed4e48d4bdef, type: 3}
+  - {fileID: 21300000, guid: a6f10a1aaf1ee4b739d62e8c2edaf6cd, type: 3}
+  - {fileID: 21300000, guid: f8d77c7a5fd334e3091bf94982ac16a0, type: 3}
+  - {fileID: 21300000, guid: 4e3f127b614104f47b396d78b5ed9732, type: 3}
+  - {fileID: 21300000, guid: cae4aedbcbd2f4a2e9fb95b78ff4095d, type: 3}
+  - {fileID: 21300000, guid: 989122ac694a6432d8e90f7ba1adf3c0, type: 3}
+  - {fileID: 21300000, guid: d863d6dd53eff4757b8170f4a782bede, type: 3}
+  - {fileID: 21300000, guid: 2c88a05ed1d794d7892f8e32d340bbe5, type: 3}
+  - {fileID: 21300000, guid: fcecb1ee43b53480baeed5ffcd33473d, type: 3}
+  - {fileID: 21300000, guid: 90f38e1f3fdf44eff91b801e3bac5d85, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tableShort_E
+  - tableShort_N
+  - tableRoundChairs_E
+  - tableRoundChairs_E 1
+  - stoneWallWindow_S
+  - tableChairsBroken_W
+  - tableRoundChairs_W
+  - woodenCrate_N
+  - woodenCrate_S
+  - tableShort_W
+  - tableRound_W
+  - woodenCrate_W
+  - tableRound_S
+  - tableRound_W 1
+  - woodenSupportsBlock_N
+  - tableRoundChairs_S
+  - tableRound_E
+  - tableShort_S
+  - tableRoundChairs_N
+  - woodenSupportsBlock_S
+  - woodenSupportBeams_S
+  - tableRound_N
+  m_Tag: ImgAtlas
+  m_IsVariant: 0
